@@ -1,0 +1,9 @@
+.backgroundImgSize{
+    height: 100px;
+    width: 100px;
+}
+#sampleImg{
+    -fx-background-image: url(assert/car.jpg);
+    -fx-background-size: 500 500;
+-fx-background-radius: 100%;
+}
